@@ -1,0 +1,286 @@
+body {
+	background-color: #66B0D6;
+
+}
+.container{
+	background-color: #0A3247;
+	width: 1000px;
+	height: 1000px;
+	margin: 0 auto;
+	position: relative;
+}
+.fontop{
+	background-color: #43677A;
+	width: 990px;
+	height: 100px;
+	margin: 0 auto;
+	bottom: 60px;
+}
+.fonmid{
+	background-color: #88F1A6;
+	width: 990px;
+	height: 300px;
+	margin: 0 auto;
+
+}
+.fonbot{
+
+	background-color: #2B6D8C;
+	width: 990px;
+	height: 500px;
+	margin: 0 auto;
+
+}
+.pie{
+background-color: #49906C;
+	width: 990px;
+	height: 90px;
+	margin: 3.5px; ;
+	float: left;
+	text-align: center;
+
+}
+.box1{
+	background-color: #2DDCD8;
+	width: 190px;
+	height: 90px;
+	margin: 3.5px;
+	float: right;
+	text-align: center;
+
+
+}
+.box2{
+	background-color: #2DDCD8;
+	
+	width: 190px;
+	height: 90px;
+	margin: 3.5px;
+	float: right;
+	text-align: center;
+
+}
+.box3{
+	background-color: #2DDCD8;
+	
+	width: 190px;
+	height: 90px;
+	margin: 3.5px;
+	float: right;
+	text-align: center;
+
+}
+.box4{
+	background-color: #2DDCD8;
+	
+	width: 190px;
+	height: 90px;
+	margin: 3.5px;
+	float: right;
+	text-align: center;
+
+}
+.box5{
+	background-color: #2DDCD8;
+	
+	width: 190px;
+	height: 90px;
+	margin: 3.5px;
+	float: right;
+	text-align: center;
+
+}
+.banner{
+	background-color: #4DA97E;
+	width: 800px;
+	height: 290px;
+	margin: 3.5px;
+	float: left;
+
+}
+.logo{
+	background-color: #4DA97E;
+	width: 180px;
+	height: 90px;
+	float: right;
+	margin-right: 3px;
+	margin-top: 3.5px;
+
+}
+.login{
+	background-color: #4DA97E;
+	width: 180px;
+	height: 90px;
+	float: right;
+	margin-right: 3px;
+	margin-top: 9px;
+
+}
+.form{
+	background-color: #4DA97E;
+	width: 180px;
+	height: 90px;
+	float: right;
+	margin-right: 3px;
+	margin-top: 9px;
+
+}
+.aside{
+	background-color: #6DB0AD;
+	width: 200px;
+	height: 490px;
+	margin: 3.5px;
+	float: left;
+}
+.article{
+	background-color: #6DB0AD;
+	width: 500px;
+	height: 490px;
+	margin: 3.5px;
+	float: left;
+
+
+}
+.aside2{
+	background-color: #6DB0AD;
+	width: 269px;
+	height: 490px;
+	margin: 3.5px;
+	float: left;
+}
+.pie p{
+	color: black;
+	font-family: arial;
+	font-size: 1.5em;
+
+}
+.box1 p{
+	color: black;
+	font-family: arial;
+	font-size: 1.5em;
+
+}
+.box2 p{
+	color: black;
+	font-family: arial;
+	font-size: 1.5em;
+
+}
+.box3 p{
+	color: black;
+	font-family: arial;
+	font-size: 1.5em;
+
+}
+.box4 p{
+	color: black;
+	font-family: arial;
+	font-size: 1.5em;
+
+}
+.box5 p{
+	color: black;
+	font-family: arial;
+	font-size: 1.5em;
+
+}
+.gogeta{
+	width: 100px;
+	position: absolute;
+	right: 8px;
+	top: 5px;	
+}
+.kokun{
+	width: 140px;
+	position: absolute;
+	right: 8px;
+	bottom: : 20px;	
+}
+.nube{
+	width: 100px;
+	position: absolute;
+	right: 8px;
+	top: 5px;	
+}
+.mario{
+	width: 200px;
+	position: absolute;
+	margin-top: 20px;
+}
+@media (min-width: 421px) and (max-width: 900px){
+	
+	.fonmid{
+		width: 200px;
+		height: 300px;
+	}
+	.box1{
+		width: 97%;
+		height: 50px;
+	}
+	.box2{
+		width: 97%;
+		height: 50px;
+	}
+	.box3{
+		width: 97%;
+		height: 50px;
+	}
+	.box4{
+		width: 97%;
+		height: 50px;
+	}
+	.box5{
+		width: 97%;
+		height: 50px;
+	}
+
+	.banner{
+		width: 97%;
+		height: 400px;
+		font-size: 0.7em;
+	}
+
+	.container{
+
+		width: 97%;
+		height: 50px;
+	}
+	.fontop{
+		width: 97%;
+		height: 50px;
+	}
+	.logo{
+		width: 97%;
+		height: 150px;
+	}
+	.login{
+		width: 97%;
+		height: 150px;
+	}
+	.form{
+		width: 97%;
+		height: 150px;
+	}
+	.fonbot{
+		width: 97%;
+		height: 50px;
+	}.aside{
+		text-align: center;
+		width: 97%;
+		height: 220px;
+	}.article{
+		text-align: center;
+		width: 97%;
+		height: 220px;
+	}
+	.aside2{
+		text-align: center;
+		width: 97%;
+		height: 220px;
+	}.pie{
+		width: 97%;
+		height: 100px;
+		font-size: 0.5em;
+	}
+
+}
